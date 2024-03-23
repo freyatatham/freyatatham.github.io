@@ -8,7 +8,7 @@
 # Site Settings
 
 locale                   : "en-GB"
-title                    : "Ben Hoskings / Homepage"
+title                    : "Freya Tatham / Homepage"
 title_separator          : "-"
 name                     : &name "Ben Hoskings Website"
 description              : &description "Ben Hoskings personal website"
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Freya Tatham"
   avatar           : "ProfilePic.png"
-  bio              : "4rd Year Systems Engineer"
-  location         : "Leamington Spa"
-  employer         : "University of Warwick"
+  bio              : "Final Year Materials Scientist and Engineer"
+  location         : "Sheffield"
+  employer         : "University of Sheffield"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "benjaminhoskings@gmail.com"
+  email            : "freyatatham@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
