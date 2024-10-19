@@ -8,7 +8,7 @@
 # Site Settings
 
 locale                   : "en-GB"
-title                    : "Freya Tatham / Homepage"
+title                    : "Freya Tatham"
 title_separator          : "-"
 name                     : &name "Freya Tatham Website"
 description              : &description "Freya Tatham personal website"
