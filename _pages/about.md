@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-A highly motivated and driven student at the University of Sheffield interested in circular manufacturing and sustainability, particularly in the technical textiles industry. As a part of her final year research project, Freya is creating a life cycle analysis of a monomaterial waterproof jacket for a premium British Outdoor Brand and conducting a meta analysis of waterproof membranes available on the market.
+Freya Tatham is a creative-thinking london based materials enthusiast with a passion for exploring innovative and sustainable solutions. Her work is driven by a commitment to creating designs that are not only functional but also environmentally responsible. Freya believes that great design should have a positive impact, and she brings this philosophy into every project by embracing circular practices and exploring eco-friendly materials.
 
-Freya hopes to work on sustainability and performance in the textiles industry for outdoor goods, as she has a great love for adventures and the outdoors, which she loves to explore through trail running and road cycling. Alongside her studies at University she completed her first 70.3 Ironman and is currently training for her first ultramarathon raising money for Mind - a youth mental health organisation.
+Inspired by the outdoors, Freya finds endless creativity in nature’s textures, colors, and forms. When she’s not working in the studio, she’s often outside, hiking or exploring landscapes that fuel her imagination and remind her of the beauty worth preserving through thoughtful design.
+
+Freya’s approach is grounded in curiosity and a love for learning, making her an adaptable designer always eager to challenge conventions and create something meaningful.
