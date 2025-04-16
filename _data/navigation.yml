@@ -7,7 +7,7 @@ main:
     url: /_work_experience/  
 
   - title: "Blog"
-    url: /_blog/
+    url: /blog/
     
   - title: "CV"
     url: /cv/
