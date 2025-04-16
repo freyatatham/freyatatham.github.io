@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Academic Projects"
+  - title: "Projects"
     url: /academic_projects/ 
 
   - title: "Work Experience"
     url: /_work_experience/  
 
-  - title: "Achievements"
-    url: /_achievements/
+  - title: "Blog"
+    url: /_blog/
     
   - title: "CV"
     url: /cv/
